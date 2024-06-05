@@ -5,6 +5,6 @@ class Dtype{
 	short little = 322;
 	int moderate = 3234;
 	long handsome = 3234234L;
-
+	System.out.println("local: handsome value:" + handsome);
     }
 }
