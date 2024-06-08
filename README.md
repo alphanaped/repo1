@@ -16,3 +16,6 @@ and push to live
 ```
 ## edits on live
 this changes are make on live
+
+### what is three hash
+need to know what is 3 hashes
